@@ -3,7 +3,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Carlos Eduardo and I'm  Full-Stack Development Student at {GT}
+My name is Carlos Eduardo and I'm  Full-Stack Development Student!!
 
 - 💛 In love with Python
 
