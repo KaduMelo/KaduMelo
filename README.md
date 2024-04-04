@@ -3,9 +3,9 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Carlos Eduardo and I'm  Full-Stack Development Student!!
+My name is Carlos Eduardo and I'm Software Engineer!!
 
-- 💛 In love with Python
+- 💛 In love with Python, Go
 
 - 💻 **Frontend:** Html, CSS, Bootstrap, JavaScript, Vue, React...
 - :gear: **Backend:** Java, Wildfly, Jboss esb, Spring Cloud, Spring boot, Playframework, Mybatis, Hibernate, Node.js, Python, Django...
