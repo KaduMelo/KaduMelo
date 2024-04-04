@@ -3,7 +3,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Carlos Eduardo and I'm Software Engineer!!
+My name is Carlos Eduardo and I'm a software engineer!!
 
 - 💛 In love with Python, Go
 
